@@ -1,3 +1,4 @@
+# Reports
 # Objective Of This Project
 The project's goal is to assist pet owners in feeding their pets on time, even while they are not at home. Aside from that, it can also assist the owner in understanding their pet's diet. It is critical for the owner to understand the pet's nutrition in order to ensure that the pet is healthy. This technique makes it easier for pet owners to feed their pets. The system works in two ways: one, it feeds the pet and transmits the feeding information to the owner, and the other, it feeds the pet and sends the feeding information to the owner. After feeding the pet, the system will stop responding for a period of time to ensure that the pet does not overeat.
 # Principle
