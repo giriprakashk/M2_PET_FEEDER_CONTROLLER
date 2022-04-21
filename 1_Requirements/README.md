@@ -17,3 +17,13 @@ One of the newer technologies for feeding pets is the automated pet feeder. It w
 * They no longer have to be concerned about their dogs when on work or vacation.
 * You won't have to buy many feeders if you have multiple pets.
 * There's no need to be concerned about your dogs devouring each other.
+# Advantages
+* Pet feeder controller mechanically feed your pet without you having to be present.
+* Pet feeder controller  assist in weight control by providing your pet with the portioned feedings they require.
+* It provide you piece of mind by ensuring that your pet is fed when you are away from home or at work.
+* Instead of approaching you for food, your pet will learn to go to the feeder.
+# Disadvantages
+* When the dish spins, it might make a whirring sound that can be annoying, especially at night. This may cause your cats to get agitated.
+* Despite the fact that it is electrical, it runs on batteries rather than direct current. It's tough to put batteries in and take them out.
+* It does not include ice packs to keep the food fresh, it is not recommended to use moist food for more than 24 hours with this type of feeder.
+* 
