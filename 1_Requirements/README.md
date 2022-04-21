@@ -26,3 +26,9 @@ One of the newer technologies for feeding pets is the automated pet feeder. It w
 * When the dish spins, it might make a whirring sound that can be annoying, especially at night. This may cause your cats to get agitated.
 * Despite the fact that it is electrical, it runs on batteries rather than direct current. It's tough to put batteries in and take them out.
 * It does not include ice packs to keep the food fresh, it is not recommended to use moist food for more than 24 hours with this type of feeder.
+# Scope
+* The pet feeder will be configurable in terms of the amount and timing of food delivered, the system's ability to keep any sort of pet food, and the type of food that is distributed.
+* The mechanism will be automated and include a timer. Clock timings, the user's set time, the personalised meal amount, and the system's on/off are among the inputs.  This logic architecture will be sequential as well as combinatorial.A timed clock circuit and counters will be used as inputs, causing the motors to operate.
+# Limitations
+* The pet feeder has a number of drawbacks, including a lack of sound variation, the need for manual food and water refills on a regular basis, and a restriction on the amount of food and water that can be dispensed.
+* The digital system's limitations include the need for a clock circuit reset before it can count the amount of time it takes to deliver meals.
