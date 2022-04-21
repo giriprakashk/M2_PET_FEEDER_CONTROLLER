@@ -1,2 +1,19 @@
 # Objective Of This Project
-* The project's goal is to assist pet owners in feeding their pets on time, even while they are not at home. Aside from that, it can also assist the owner in understanding their pet's diet.
+The project's goal is to assist pet owners in feeding their pets on time, even while they are not at home. Aside from that, it can also assist the owner in understanding their pet's diet. It is critical for the owner to understand the pet's nutrition in order to ensure that the pet is healthy. This technique makes it easier for pet owners to feed their pets. The system works in two ways: one, it feeds the pet and transmits the feeding information to the owner, and the other, it feeds the pet and sends the feeding information to the owner. After feeding the pet, the system will stop responding for a period of time to ensure that the pet does not overeat.
+# Introduction
+One of the newest innovations for feeding pets is the automated pet feeder. It will assist pet owners in caring for their pets when they are away from home. Even if the owners are not at home, their pets can be fed. The automated pet feeder is designed to assist pet owners in caring for their animals. One of the pet feeders that will be operated by a wireless infrared remote control is an automated pet feeder. The automated pet feeder will be operated by a wireless infrared remote control and will automatically dispense predefined amounts of food at the times specified by the user. As pet owners, users should be aware that their dogs require proper dietary control as well.Life's obligations can sometimes prevent pet owners from properly caring for their animals. Whether the user is suddenly gone from home or simply wants one less duty to worry about, they can rest certain that their favourite pet will be cared for and fed on time, every time.Pet care should be enjoyable, not taxing, and the purpose of this project is to make pet care easier for owners by offering an automated pet feeder.
+# Principle
+One of the newer technologies for feeding pets is the automated pet feeder. It will assist pet owners in caring for their animals when they are away from their homes. Even if the owners are not there, their pets can be fed. The purpose of an automated pet feeder is to assist pet owners in caring for their animals. A wireless infrared remote control will be used to operate an automated pet feeding. With the use of a wireless infrared remote control, the machine-driven pet feeder will automatically dispense fixed amounts of food at the precise times set by the user. Users should be aware that, as pet owners, their dogs require proper dietary control as well.
+# Components
+* Atmega 328
+* Voltage Source
+* Servo Motor
+* LED Bulbs
+* Resistors
+* Switch
+* Wires
+# Goals
+* A more customised pet-keeping experience.
+* They no longer have to be concerned about their dogs when on work or vacation.
+* You won't have to buy many feeders if you have multiple pets.
+* There's no need to be concerned about your dogs devouring each other.
