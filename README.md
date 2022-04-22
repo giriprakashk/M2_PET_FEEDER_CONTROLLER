@@ -5,3 +5,9 @@
 ## Codiga
 ## CPP Check Analysis
 [![Cppcheck Analyse](https://github.com/giriprakashk/M2_PET_FEEDER_CONTROLLER/actions/workflows/cpp%20check_Analyse.yml/badge.svg)](https://github.com/giriprakashk/M2_PET_FEEDER_CONTROLLER/actions/workflows/cpp%20check_Analyse.yml)
+# In Action
+## OFF Mode
+![OFF Mode](https://user-images.githubusercontent.com/101519714/164650995-fa298e81-18e9-4f34-ac51-f99917b3de22.png)
+## ON Mode
+![ON Mode (1)](https://user-images.githubusercontent.com/101519714/164651047-59cff89a-4964-4329-a520-3cc2dadd9510.png)
+![ON Mode (2)](https://user-images.githubusercontent.com/101519714/164651073-e329e9b4-6e53-4d9c-861f-2d946b931f3c.png)
