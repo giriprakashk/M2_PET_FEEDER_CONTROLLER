@@ -10,6 +10,9 @@ One of the newer technologies for feeding pets is the automated pet feeder. It w
 * They no longer have to be concerned about their dogs when on work or vacation.
 * You won't have to buy many feeders if you have multiple pets.
 * There's no need to be concerned about your dogs devouring each other.
+# Scope
+* The pet feeder will be configurable in terms of the amount and timing of food delivered, the system's ability to keep any sort of pet food, and the type of food that is distributed.
+* The mechanism will be automated and include a timer. Clock timings, the user's set time, the personalised meal amount, and the system's on/off are among the inputs.  This logic architecture will be sequential as well as combinatorial.A timed clock circuit and counters will be used as inputs, causing the motors to operate.
 # Advantages
 * Pet feeder controller mechanically feed your pet without you having to be present.
 * Pet feeder controller  assist in weight control by providing your pet with the portioned feedings they require.
