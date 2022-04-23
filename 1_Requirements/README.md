@@ -21,14 +21,6 @@ The light-emitting diode (LED) is a common light source in electrical devices. I
 A resistor is a passive electrical component having two terminals that is used in electrical circuits to control or regulate the passage of electric current. The primary function of a resistor is to reduce current flow and lower voltage in a specific area of the circuit. It's comprised of copper wires that are wrapped around a ceramic rod and have an insulating paint coating on the outside. The Ohm is the SI unit for resistance.
 ## Switch
 A switch is an electrical component that may interrupt or redirect electric current from one conductor to another by disconnecting or connecting the conducting channel in an electrical circuit. An electromechanical switch, which consists of one or more sets of moveable electrical contacts coupled to external circuits, is the most common form of switch. When two contacts are in contact, current can flow between them, but when they are separated, no current can flow.
-# Goals
-* A more customised pet-keeping experience.
-* They no longer have to be concerned about their dogs when on work or vacation.
-* You won't have to buy many feeders if you have multiple pets.
-* There's no need to be concerned about your dogs devouring each other.
-# Scope
-* The pet feeder will be configurable in terms of the amount and timing of food delivered, the system's ability to keep any sort of pet food, and the type of food that is distributed.
-* The mechanism will be automated and include a timer. Clock timings, the user's set time, the personalised meal amount, and the system's on/off are among the inputs.  This logic architecture will be sequential as well as combinatorial.A timed clock circuit and counters will be used as inputs, causing the motors to operate.
 # SWOT Analysis
 ![image](https://user-images.githubusercontent.com/101519714/164936024-a8063324-2d68-44b5-ae3f-9674a7c20e62.png)
 # HIGH LEVEL REQUIREMENTS
@@ -42,4 +34,7 @@ A switch is an electrical component that may interrupt or redirect electric curr
 | HL01-LL01 | ABLE TO DETECT THE ROTATION OF THE MOTOR | IMPLEMENTED |
 | HL01-LL02 | MOTOR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
 | HL02-LL01 | ITS ROTATE RIGHT AS WELL AS ROTATE LEFT | IMPLEMENTED |
-| HL02-LL02 | SERVO MOTOR ROTATES THE PANNEL POSITION	| IMPLEMENTED
+| HL02-LL02 | SERVO MOTOR ROTATES THE PANNEL POSITION	| IMPLEMENTED |
+# 4 W&H's
+![image](https://user-images.githubusercontent.com/101519714/164944513-cc65993a-d0d5-4f0e-9acc-e058d4e2e7db.png)
+
