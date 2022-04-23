@@ -1,5 +1,5 @@
 # Flow Chart
-![image](https://user-images.githubusercontent.com/101519714/164476608-fc6e296a-4253-4ae7-9cfe-ec549a56ff9c.png)
+![image](https://user-images.githubusercontent.com/101519714/164926849-05220aa6-4ee4-4e65-8492-8b29c54da83d.png)
 # Circuit Diagram
 ![image](https://user-images.githubusercontent.com/101519714/164912738-f4ceb355-cba0-41d2-8ea6-e7137ac5f21f.png)
 # Block Diagram
