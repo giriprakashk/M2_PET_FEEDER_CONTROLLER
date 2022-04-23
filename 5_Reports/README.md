@@ -13,6 +13,18 @@ One of the newer technologies for feeding pets is the automated pet feeder. It w
 * Resistors
 * Switch
 * Wires
+## Atmega 328 Microcontroller
+The ATMEGA328 is a well-known microcontroller since it is used in many Arduino board devices. With a maximum clock frequency of 20MHz, 32KB of programme FLASH, and 2KB of RAM, the ATMEGA328P-PN is the Arduino Uno and Nano's 8-bit RISC heart. The ATMEGA328P-PN is a 28-DIP package with various on-board peripherals, including UART, SPI, timers, ADC, comparators, and a watchdog, that allows designers to easily prototype their designs before committing to surface mount technology. The ATMEGA328 is a flexible and cost-effective microcontroller with a temperature range of -40°C to 105°C and a voltage range of 1.8V to 5.5V.
+## Servo Motor
+A servomotor (also known as a servo motor) is a basic electric motor that is controlled by servomechanism. When a motor is used as a controlled device and is connected to a servomechanism, it is referred to as a DC Servo Motor. A controlled motor that is powered by AC is referred to as an AC Servo Motor. A servomotor is a linear or rotary actuator that provides for exact control of position, acceleration, and velocity in linear or angular directions. It is made comprised of a motor and a position feedback sensor. It also necessitates a complex controller, which is frequently a separate module created exclusively for servomotors.
+## Voltage Source
+We can start with the electrical supply as an introduction. It's just a gadget that can supply electricity to a linked circuit. They can be either a current or voltage source. We may talk about the most typical voltage source in this section. In reality, a voltage source is a passive component that may generate a constant force for electron flow across the wire to which it is attached. Typically, it is a two-terminal gadget. Voltage sources are divided into two categories: independent voltage sources and dependent voltage sources. A 5v fixed supply is used in this project.
+## LED
+The light-emitting diode (LED) is a common light source in electrical devices. It may be used in a variety of ways, from your phone to enormous advertising billboards. They are most commonly seen in devices that display the time and various forms of data. When an electric current passes through a light-emitting diode (LED), it emits light. When current travels through an LED, electrons recombine with holes, resulting in light. LEDs enable electricity to flow in one direction but prevent it from flowing in the opposite way.
+## Resistor
+A resistor is a passive electrical component having two terminals that is used in electrical circuits to control or regulate the passage of electric current. The primary function of a resistor is to reduce current flow and lower voltage in a specific area of the circuit. It's comprised of copper wires that are wrapped around a ceramic rod and have an insulating paint coating on the outside. The Ohm is the SI unit for resistance.
+## Switch
+A switch is an electrical component that may interrupt or redirect electric current from one conductor to another by disconnecting or connecting the conducting channel in an electrical circuit. An electromechanical switch, which consists of one or more sets of moveable electrical contacts coupled to external circuits, is the most common form of switch. When two contacts are in contact, current can flow between them, but when they are separated, no current can flow.
 # Goals
 * A more customised pet-keeping experience.
 * They no longer have to be concerned about their dogs when on work or vacation.
@@ -33,3 +45,37 @@ One of the newer technologies for feeding pets is the automated pet feeder. It w
 # Limitations
 * The pet feeder has a number of drawbacks, including a lack of sound variation, the need for manual food and water refills on a regular basis, and a restriction on the amount of food and water that can be dispensed.
 * The digital system's limitations include the need for a clock circuit reset before it can count the amount of time it takes to deliver meals.
+# SWOT Analysis
+![image](https://user-images.githubusercontent.com/101519714/164944657-c44af219-dcb2-48de-8c3c-226c3fa2f59f.png)
+# HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL01 | MOTOR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL02 | SERVO MOTOR INTERFACING | IMPLEMENTED |
+# LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL01-LL01 | ABLE TO DETECT THE ROTATION OF THE MOTOR | IMPLEMENTED |
+| HL01-LL02 | MOTOR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL02-LL01 | ITS ROTATE RIGHT AS WELL AS ROTATE LEFT | IMPLEMENTED |
+| HL02-LL02 | SERVO MOTOR ROTATES THE PANNEL POSITION	| IMPLEMENTED |
+# 4 W&H's
+![image](https://user-images.githubusercontent.com/101519714/164944686-a85239a2-183c-4b9f-9869-e287153d2f9a.png)
+# Diagram
+## Flow Chart
+![image](https://user-images.githubusercontent.com/101519714/164944783-658890fa-5105-44d9-b90f-93819eac898f.png)
+## Circuit Diagram
+![image](https://user-images.githubusercontent.com/101519714/164944790-d2e6a316-3535-442d-9d72-142520c2400f.png)
+## Block Diagram
+![image](https://user-images.githubusercontent.com/101519714/164944795-1be1f2b3-1335-44e3-a468-007730afdb02.png)
+## State Transmission Diagram
+![image](https://user-images.githubusercontent.com/101519714/164944807-1a6e6ed1-a7fa-4a7e-b85e-d1124acfeb44.png)
+## Data Flow Diagram
+![image](https://user-images.githubusercontent.com/101519714/164944823-1b40e1e7-8d61-4f01-a56a-52d1f8b7d9dd.png)
+# Output
+## OFF Mode
+![image](https://user-images.githubusercontent.com/101519714/164944855-b252d8e9-bea6-4764-8e2e-6cd944d6c789.png)
+## ON Mode
+![image](https://user-images.githubusercontent.com/101519714/164944867-a9bbd58e-4c45-48fe-90aa-2718782a53aa.png)
+![image](https://user-images.githubusercontent.com/101519714/164944868-abee0a28-8083-48ce-bfb2-e1ce38da885a.png)
+
