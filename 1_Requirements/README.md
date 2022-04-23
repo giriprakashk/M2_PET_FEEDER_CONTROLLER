@@ -29,6 +29,8 @@ A switch is an electrical component that may interrupt or redirect electric curr
 # Scope
 * The pet feeder will be configurable in terms of the amount and timing of food delivered, the system's ability to keep any sort of pet food, and the type of food that is distributed.
 * The mechanism will be automated and include a timer. Clock timings, the user's set time, the personalised meal amount, and the system's on/off are among the inputs.  This logic architecture will be sequential as well as combinatorial.A timed clock circuit and counters will be used as inputs, causing the motors to operate.
+# SWOT Analysis
+![image](https://user-images.githubusercontent.com/101519714/164936024-a8063324-2d68-44b5-ae3f-9674a7c20e62.png)
 # HIGH LEVEL REQUIREMENTS
 | ID | Description | Status |
 | ---|:------------|:-------|
