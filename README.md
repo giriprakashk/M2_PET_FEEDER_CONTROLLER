@@ -13,7 +13,7 @@ Folder | Description
 1_Requirements | Documents detailing requirements and research
 2_Architecture | Diagrams -Flow chart,Circuit Diagram,Block Diagram,Data Flow Transmission Diagram,State Transmission Diagram
 3_Implemenatation | All code and Documentation
-4_TestCasesAndOutput | Documents with test Cases and Output
+4_TestPlanAndOutput | Documents with test Cases and Output
 5_Report | Overall report of the project
 6_ImagesAndVideos | Code Execution Images and Video
 
