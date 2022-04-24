@@ -1,8 +1,10 @@
 # Testcases
-| ID | Description | status(pass/fail) |
-| ---|:------------|:-------|
-| 1 | servo motor | pass |
-| 2 | LED | pass|
+| ID | Description | Expected Output | Actual Output
+| ---|:------------|:-------|:---------|
+| 1 | Atmega328 | Passed | Success |
+| 2 | servo motor | passed | Success |
+| 3 | LED | passed| Success |
+
 # Output
 ## OFF Mode
 ![OFF Mode](https://user-images.githubusercontent.com/101519714/164651826-38ca3d6b-b448-4e04-acf0-a73e97e14632.png)
