@@ -1,5 +1,6 @@
 # Testcases
-| ID | Description | status(pass/fail) |
-| ---|:------------|:-------|
-| 1 | servo motor | pass |
-| 2 | LED | pass|
+| ID | Description | Expected Output | Actual Output
+| ---|:------------|:-------|:---------|
+| 1 | Atmega328 | Passed | Success |
+| 2 | servo motor | passed | Success |
+| 3 | LED | passed| Success |
