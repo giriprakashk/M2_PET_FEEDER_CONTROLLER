@@ -1,4 +1,4 @@
-# REPORTS
+# REPORT
 # Introduction
 One of the newest innovations for feeding pets is the automated pet feeder. It will assist pet owners in caring for their pets when they are away from home. Even if the owners are not at home, their pets can be fed. The automated pet feeder is designed to assist pet owners in caring for their animals. One of the pet feeders that will be operated by a wireless infrared remote control is an automated pet feeder. The automated pet feeder will be operated by a wireless infrared remote control and will automatically dispense predefined amounts of food at the times specified by the user. As pet owners, users should be aware that their dogs require proper dietary control as well.Life's obligations can sometimes prevent pet owners from properly caring for their animals. Whether the user is suddenly gone from home or simply wants one less duty to worry about, they can rest certain that their favourite pet will be cared for and fed on time, every time.Pet care should be enjoyable, not taxing, and the purpose of this project is to make pet care easier for owners by offering an automated pet feeder.
 # Objective Of This Project
