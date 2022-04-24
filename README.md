@@ -12,3 +12,12 @@
 ## ON Mode
 ![ON Mode (1)](https://user-images.githubusercontent.com/101519714/164651047-59cff89a-4964-4329-a520-3cc2dadd9510.png)
 ![ON Mode (2)](https://user-images.githubusercontent.com/101519714/164651073-e329e9b4-6e53-4d9c-861f-2d946b931f3c.png)
+Folder | Description
+-- | --
+0_Abstract | Explaination of the project
+1_Requirements | Documents detailing requirements and research
+2_Architecture | Diagrams -Flow chart,Circuit Diagram,Block Diagram,Data Flow Transmission Diagram,State Transmission Diagram
+3_Implemenatation | All code and Documentation
+4_TestCasesAndOutput | Documents with test Cases and Output
+5_Report | Overall report of the project
+6_ImagesAndVideos | Code Execution Images and Video
