@@ -1,1 +1,1 @@
-@mainpage Pet Feeder Controller by "Giri Prakash K" @subpage Pet_Feeder_Controller.h
+@mainpage Pet Feeder Controller by "Giri Prakash K" @subpage Pet Feeder Controller_main.c
